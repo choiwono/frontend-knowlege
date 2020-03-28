@@ -35,6 +35,6 @@
 
 * [인터뷰 질문정리](https://github.com/choiwono/memo/interview/Question.md)
 
-## ::white_check_mark: Guide
+## :white_check_mark: Guide
 
 * [신입 프론트엔드 개발자가 되기 위한 지식 정리](https://github.com/choiwono/memo/Guide/ForFrontendDeveloperKnow.md)
