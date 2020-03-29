@@ -23,18 +23,18 @@
 
 ## :rocket: Javascript
 
-* [Javascript 모듈 시스템](https://github.com/choiwono/frontend-knowlege/memo/Javascript/module.md)
+* [Javascript 모듈 시스템](https://github.com/choiwono/frontend-knowlege/blob/master/memo/Javascript/module.md)
 
 ## :fire: React
 
-* [LifeCycle Methods with React Hooks](https://github.com/choiwono/frontend-knowlege/memo/React/LifeCycleMethodsWithHooks.md)
+* [LifeCycle Methods with React Hooks](https://github.com/choiwono/frontend-knowlege/blob/master/memo/React/LifeCycleMethodsWithHooks.md)
 
 ## :pencil: interview
 
 직접 질문받은 내용 혹은 다른사람이 받은 질문 내용 정리
 
-* [인터뷰 질문정리](https://github.com/choiwono/frontend-knowlege/memo/interview/Question.md)
+* [인터뷰 질문정리](https://github.com/choiwono/frontend-knowlege/blob/master/memo/interview/Question.md)
 
 ## :white_check_mark: Guide
 
-* [신입 프론트엔드 개발자가 되기 위한 지식 정리](https://github.com/choiwono/frontend-knowlege/memo/Guide/ForFrontendDeveloperKnow.md)
+* [신입 프론트엔드 개발자가 되기 위한 지식 정리](https://github.com/choiwono/frontend-knowlege/blob/master/memo/Guide/ForFrontendDeveloperKnow.md)
