@@ -28,6 +28,7 @@
 ## :fire: React
 
 * [LifeCycle Methods with React Hooks](https://github.com/choiwono/frontend-knowlege/blob/master/memo/React/LifeCycleMethodsWithHooks.md)
+* [Modal 범위밖을 클릭했을 경우 닫기](https://usehooks.com/useOnClickOutside/)
 
 ## :pencil: interview
 
