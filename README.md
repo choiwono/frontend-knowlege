@@ -39,3 +39,4 @@
 ## :white_check_mark: Guide
 
 * [신입 프론트엔드 개발자가 되기 위한 지식 정리](https://github.com/choiwono/frontend-knowlege/blob/master/memo/Guide/ForFrontendDeveloperKnow.md)
+* [GIT 가이드](https://github.com/choiwono/git-guide)
