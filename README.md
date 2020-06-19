@@ -40,3 +40,4 @@
 
 * [신입 프론트엔드 개발자가 되기 위한 지식 정리](https://github.com/choiwono/frontend-knowlege/blob/master/memo/Guide/ForFrontendDeveloperKnow.md)
 * [GIT 가이드](https://github.com/choiwono/git-guide)
+* [개발 Youte 채널 및 교육사이트 추천](https://www.notion.so/wonoooo/Youtube-site-b7194df2ce2c4ab892b253f1c7fa7206)
