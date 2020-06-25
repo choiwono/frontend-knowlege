@@ -44,4 +44,6 @@
 
 * [신입 프론트엔드 개발자가 되기 위한 지식 정리](https://github.com/choiwono/frontend-knowlege/blob/master/memo/Guide/ForFrontendDeveloperKnow.md)
 * [GIT 가이드](https://github.com/choiwono/git-guide)
+* [GIT COMMIT-GUIDE](https://www.notion.so/wonoooo/Git-Commit-33a37962f1604606baa94018e3a8228f)
 * [개발 Youte 채널 및 교육사이트 추천](https://www.notion.so/wonoooo/Youtube-site-b7194df2ce2c4ab892b253f1c7fa7206)
+* [변수이름 잘짓는법](https://www.notion.so/wonoooo/168a3f7d4b4c4416bca6cd2b71669056)
