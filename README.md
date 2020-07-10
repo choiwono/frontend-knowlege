@@ -49,3 +49,4 @@
 * [개발 Youte 채널 및 교육사이트 추천](https://www.notion.so/wonoooo/Youtube-site-b7194df2ce2c4ab892b253f1c7fa7206)
 * [변수이름 잘짓는법](https://www.notion.so/wonoooo/168a3f7d4b4c4416bca6cd2b71669056)
 * [vscode 익스텐션 추천](https://www.notion.so/wonoooo/Vscode-extension-80b0b0207efa4a618744ff7d47f8d9a1)
+* [외부에서 코딩하기](https://www.notion.so/wonoooo/33c54f4056b24a91bcad5d09b773a718)
